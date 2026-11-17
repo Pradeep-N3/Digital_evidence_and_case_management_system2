@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Evidence & Case Management System (DEMS)
 
 Java OOP mini project. Desktop app (Swing) for storing digital evidence against cases,
@@ -104,3 +105,7 @@ not change the services or the UI.
 - The hash proves the stored file is unchanged *since it was added*; it cannot prove the file was
   genuine before it was added.
 - Evidence of a closed case cannot receive new files (re-open the case first).
+=======
+# Digital_evidence_and_case_management_system2
+An object-oriented digital evidence and case management system developed as a java mini-project.
+>>>>>>> a689b137f07aece9b8cd77840093d070c3fe3ac9
