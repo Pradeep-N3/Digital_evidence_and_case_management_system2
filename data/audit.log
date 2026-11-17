@@ -1,0 +1,5 @@
+2026-11-17 17:17:41	admin	LOGIN	Signed in as Administrator
+2026-11-17 17:18:05	admin	LOGOUT	Signed out
+2026-11-17 17:25:51	admin	LOGIN	Signed in as Administrator
+2026-11-17 17:28:10	admi	LOGIN_FAILED	Invalid username or password
+2026-11-17 17:28:21	admin	LOGIN	Signed in as Administrator
